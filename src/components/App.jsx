@@ -1,7 +1,7 @@
 import React from 'react';
 import { Route, Switch } from 'react-router-dom'
 import Home from './Home'
-import Bookmarks from './Bookmark'
+import Bookmarks from './Bookmarks'
 import NoMatch from './NoMatch'
 import NavBar from '../shared/NavBar'
 import CreateBookmark from './CreateBookmark'
